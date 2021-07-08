@@ -8,7 +8,7 @@ Yazılım çok geniş bir evren benim için. Ucu bucağı olmayan bir bölüm. �
 bir sektör. 
 
 HTML,CSS,Javascript,PHP,Bootstrap,Wordpress,MySQL,SCSS,Python,Laravel,Ajax,Jquery..
-Yukarıda saydıklarım öğrendiklerim veya öğrenmeye devam ettiğim alanlardır.
+Saydıklarım öğrendiklerim veya öğrenmeye devam ettiğim alanlardır.
 
 Mesleğim haricinde, ilgi duyduğum bir çok alan var elbette. Ama zamanımın çoğunu işim ile geçirmeyi seviyorum. Ne kadar yoğun olursam olayım, sevdiklerime
 zaman ayırmak benim için çok önemli. Onlarla vakit geçirmek enerji veriyor. İşime daha iyi odaklanabiliyorum. Film izlemeyi çok severim. Yüzmek de çok keyif 
