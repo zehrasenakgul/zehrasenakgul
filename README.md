@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zehra Sena</h1>
-<h3 align="center">Backend Developer Intern at Elmali Tech</h3>
-
 - 🌱 I’m currently learning **Laravel,React,Vue,Angular,Django,NodeJS**
 
 - 📫 How to reach me **zehrasenakgul@gmail.com**
