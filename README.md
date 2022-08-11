@@ -1,10 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api?username=zehrasenakgul&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrasenakgul&layout=compact"/>
-
-<h1 align="center">Hi 👋, I'm Zehra Sena</h1>
-- 🌱 I’m currently learning **Laravel,React,Vue,Angular,Django,NodeJS**
-
-- 📫 How to reach me **zehrasenakgul@gmail.com**
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=zehrasenakgul&show_icons=true"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zehrasenakgul"/></td>
+  </tr>
+</table>
+- 📫 zehrasenakgul@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
