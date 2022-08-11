@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehrasenakgul)](https://github.com/zehrasenakgul/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Zehra Sena</h1>
 - 🌱 I’m currently learning **Laravel,React,Vue,Angular,Django,NodeJS**
 
