@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehrasenakgul&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrasenakgul"/>
 
 <h1 align="center">Hi 👋, I'm Zehra Sena</h1>
 - 🌱 I’m currently learning **Laravel,React,Vue,Angular,Django,NodeJS**
